@@ -78,16 +78,16 @@ header p {
 
 /*-- Styling Links --*/
 a{
-    color: #00AEA3;
+    color: #F2EDD0;
     text-decoration: none;
 }
 
 a:visited {
-    color: #00AEA3;
+    color: #F2EDD0;
 }
 
 a:hover {
-    color: #45e6db;
+    color: #FFFDF5;
     border-bottom: 1px dotted;
 }
 

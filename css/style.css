@@ -10,7 +10,7 @@
 /*-- Main structural styling --*/
 
 body {
-    background: #C2DDC8;
+    background: #F2EDD0;
     color: #333333
 }
 
@@ -96,7 +96,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background: #99BFB3;
+    background: #BCBF50;
     padding: 2em 0;
     font-size: 0.75rem;
 }

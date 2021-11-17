@@ -50,10 +50,11 @@ h3 {
 }
 
 blockquote {
-    font-size: 1.414rem;
+    font-size: 1.1rem;
     font-style: italic;
     hanging-punctuation: first;
     text-indent: -0.42rem;
+    color: #BCBF50;
 }
 
 cite {

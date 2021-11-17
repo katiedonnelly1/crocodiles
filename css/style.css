@@ -87,7 +87,7 @@ a:visited {
 }
 
 a:hover {
-    color: #FFFDF5;
+    color: #F2EDD0;
     border-bottom: 1px dotted;
 }
 
@@ -133,8 +133,8 @@ nav a:hover {
 hr{
     margin: 100px 0;
     height: 1px;
-    background-color: #00AEA3;
-    color: #00AEA3;
+    background-color: #F2EDD0;
+    color: #F2EDD0;
     border: 0 none;
 }
 

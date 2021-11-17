@@ -45,7 +45,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     color: #D9C589;
 }
 
@@ -126,7 +126,7 @@ nav a:visited {
 
 nav a:hover {
     border-bottom: none;
-    color: #F2EDD0;
+    color: #F2F2F2;
     transition: all 0.3s ease-in-out;
 }
 

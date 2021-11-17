@@ -126,7 +126,7 @@ nav a:visited {
 
 nav a:hover {
     border-bottom: none;
-    color: #F2F2F2;
+    color: #FFFDF5;
     transition: all 0.3s ease-in-out;
 }
 

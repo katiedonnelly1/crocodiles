@@ -64,7 +64,6 @@ blockquote {
     hanging-punctuation: first;
     text-indent: -0.42rem;
     color: #AFB34B;
-    padding: 1em 0 2em 1em;
 }
 
 cite {
@@ -112,7 +111,8 @@ nav {
     background: #BCBF50;
     padding: 2em 0;
     font-size: 0.75rem;
-    border-top: 1px solid #333;
+    border-top: 1px solid #989b46;
+    border-bottom: 1px solid #989b46;
 }
 
 nav ul {

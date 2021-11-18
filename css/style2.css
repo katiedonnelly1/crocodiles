@@ -45,7 +45,7 @@ h2 {
 header h2 {
     font-style: italic;
     font-size: 1.8em;
-    color: #333;
+    color: #D9C589;
     margin-bottom: 3em;
 }
 
@@ -80,7 +80,7 @@ blockquote p {
 }
 
 a {
-    color: #c06;
+    color: #AFB34B;
     text-decoration: none;
 }
 

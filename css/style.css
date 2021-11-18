@@ -36,6 +36,11 @@ p, blockquote {
     line-height: 1.4;
 }
 
+p, li {
+    margin-bottom: 2em;
+    line-height: 1.5em;
+}
+
 h1 {
     font-size: 5.6rem;
     margin-top: 2em;

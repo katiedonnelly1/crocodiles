@@ -50,7 +50,7 @@ header h2 {
 }
 
 .intro {
-    font-size: 1.25em;
+    font-size: 1.1em;
     line-height: 1.5em;
 }
 
@@ -99,7 +99,7 @@ nav {
 nav ul {
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 
 nav ul li {

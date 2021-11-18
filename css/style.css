@@ -140,6 +140,11 @@ hr{
     border: 0 none;
 }
 
+.anchor {
+    text-transform: uppercase;
+    font-size: 0.75em;
+}
+
 /*-- Footer --*/
 
 footer {

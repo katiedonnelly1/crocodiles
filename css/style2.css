@@ -72,9 +72,10 @@ blockquote p {
     text-indent: -0.5em;
 }
 
-.dark {
+.light {
     background: #AFB34B;
     margin: auto;
+    padding: 1rem;
 }
 
 /* links and nav */
@@ -85,12 +86,12 @@ blockquote p {
 }
 
 a {
-    color: #AFB34B;
+    color: #F2EDD0;
     text-decoration: none;
 }
 
 a:hover {
-    color: #006341;
+    color: #ffffff;
     border-bottom: 1px dotted;
 }
 
@@ -110,13 +111,22 @@ nav ul {
 nav ul li {
     display: inline;
     margin: 20px;
+    background: none;
 }
 
 nav a:hover {
     border-bottom: none;
 }
 
-nav a:visited {
-    color: #AFB34B;
+
+
+hr{
+    margin: 100px 0;
+    height: 1px;
+    background-color: #2E5559;
+    color: #2E5559;
+    border: 0 none;
 }
+
+/*-- Footer --*/
 

@@ -1,0 +1,38 @@
+.connections{
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .connections ul{
+    margin: 0;
+    padding: 0;
+  }
+  .connections li{
+    margin: 0 10px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;  
+  }
+  .connections a:link{
+    border-bottom: none;
+  }
+  .connections img,
+  .connections svg{
+    border: none;
+  }
+  .connections a:hover img,
+  .connections a:hover svg{
+    border-bottom: none;}
+  
+  .connections svg {
+        margin: 2em auto;}
+  
+  .connections a:hover svg path {
+        fill: #F2EDD0;
+        transition: all 0.2s ease-in-out;}
+  
+  footer .connections a:hover svg path {
+          fill:  #F2EDD0;
+          transition: all 0.2s ease-in-out;}
+  
+

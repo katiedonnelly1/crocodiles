@@ -111,3 +111,7 @@ nav ul li {
 nav a:hover {
     border-bottom: none;
 }
+
+nav a:visited {
+    color: #AFB34B;
+}

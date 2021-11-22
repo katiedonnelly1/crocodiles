@@ -72,6 +72,10 @@ blockquote p {
     text-indent: -0.5em;
 }
 
+.dark {
+    background: #AFB34B;
+    margin: auto;
+}
 
 /* links and nav */
 
@@ -115,3 +119,4 @@ nav a:hover {
 nav a:visited {
     color: #AFB34B;
 }
+

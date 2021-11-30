@@ -7,6 +7,10 @@
     line-height: 1em;
 }
 
+.dark {
+    background: #712D17;
+    padding: 1rem 0;
+}
 
 /* styling */
 

@@ -1,0 +1,226 @@
+/*-- CSS Reset --*/
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    font-weight: normal;
+    line-height: 1em;
+}
+
+/*----- Main Styling, this section lays down the fondations for the main structure of the content ----*/
+
+body {
+    background: #f7f7f7;
+    color: #333;
+    font-family: baskerville-urw, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+section, header, footer {
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
+    padding: 0;
+}
+
+section {
+    margin-bottom: 1rem;
+}
+
+.dark {
+    background: #9e4917;
+    padding: 3rem 0;
+    margin-top: 0.5em;
+}
+
+.light {
+    background: #F2F0E9;
+    padding: 0.2rem 0;
+}
+
+.gridimage {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    margin-top: -3rem;
+    margin-bottom: -3rem;
+}
+
+/*-- Typographic Styling --*/
+
+p {
+    font-family: mrs-eaves, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.1em;
+}
+
+header h1, h2 {
+    color: #f7f7f7;
+    padding: 2rem 0;
+    font-family: baskerville-urw, serif;
+    font-weight: 800;
+    font-style: italic;
+}
+
+header h2 {
+    font-style: italic;
+    font-size: 3rem;
+    font-weight: 450;
+    color: #f7f7f7;
+    margin-top: -3rem;
+    margin-bottom: -2rem;
+    text-indent: 1.5rem;
+}
+
+header p {
+    padding-bottom: 2rem;
+    font-size: 1.3rem;
+    color: #f7f7f7;
+}
+
+h1 {
+    font-size: 5.653rem;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #9e4917;
+    font-style: bold;
+}
+
+p, footer {
+    color: #333;
+    padding: 1em 0;
+    line-height: 1.4;
+    font-family: baskerville-display-pt, serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3rem;
+    margin: 0.5em 0 0em;
+    text-align: center;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 1.6rem;
+    color: #9e4917;
+    hanging-punctuation: first;
+    text-indent: -0.9rem;
+    line-height: 1.2;
+}
+
+cite {
+    font-style: normal;
+    font-size: 0.75em;
+    color: #AABDBF;
+    transition: all 0.3s ease-in-out;
+}
+
+/*-- Style Links --*/
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+    border-bottom: 1px dotted;
+}
+
+#the-market-square {
+    margin-top: -1.5em;
+    margin-bottom: -1em;
+}
+
+/*-- Styling Nav --*/
+
+nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        margin: 0;
+        width: 100%;
+        background: #5e2d11;
+        border-bottom: white;
+        padding: 2em 0;
+        font-size: 0.75rem;
+    }
+    
+    nav ul {
+        text-align: center;
+        text-transform: upper-case;
+        letter-spacing: 1px;
+    }
+    
+    nav ul li {
+        display: inline;
+        margin: 20px;
+        background: none;
+    }
+    
+    nav a {
+        color: #f7f7f7;
+    }
+    
+    nav a:visited {
+        color: #ffffff;
+    }
+    
+    nav a:hover {
+        border-bottom: none;
+        color: #ffffff;
+        transition: all 0.3s ease-in-out;
+    }
+    
+    hr{
+        margin: 100px 0;
+        height: 1px;
+        background-color: #2E5559;
+        color: #2E5559;
+        border: 0 none;
+    }
+
+.topimage {
+    border-top: 5px white}
+    /*-- Image Control --*/
+
+    img {
+        display: block;
+        margin: 1em 0;
+        padding: 0;
+        max-width: 100%;
+        margin-top: 4em;
+    }
+
+    .bottomimage
+
+    /*----- Footer -----*/
+
+    footer { 
+        text-align: center;
+        font-size: 0.8em;
+        font-family: baskerville-urw, serif;
+        font-weight: 400;
+        font-style: normal;
+        padding: 0 0 8em 0;
+        margin: auto;
+    }
+
+    footer p {
+        color: #f7f7f7;
+    }
+
+    footer a {
+        color: #f7f7f7;
+        margin: 0 5px;
+    }
+
+    footer a:hover {
+        color: #5e2d11;
+        transition: all 0.5s ease-in-out;
+    }
